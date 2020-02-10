@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Documents</title>
+</head>
+<h1>Formatting text</h1> 
+<h2>Paragraphs and line breaks</h2>
+<meta charset="UTF-8"
+<body>
+
+Users of HTML are sometimes suprised to find that HTML gives them little control over the way
+that a page is displpayed. <br> It shouble be remembered that HTML was developed as a means of marking 
+up the structure of a document not as a way of determining its presentation. <p> Formatting text to
+appear on Web page is tehrefore different from formatting text to appear </p>p> in printed document.
+<pre>
+This
+<hr>
+is
+
+cool.
+</pre>
+</body>
+</html>
