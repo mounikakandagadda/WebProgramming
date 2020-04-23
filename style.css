@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+    background-color:black;
+    margin-top: 50px;
+    margin-left: 380px;
+    margin-right:280px;
+    margin-bottom:50px;
+}
+#myDynamicTable{
+    padding-bottom: 10px;
+}
+
+table {
+    background-color: white;
+    border-spacing: 0;
+}
+/*control button css*/
+#start,
+#clear,
+#stop {
+    
+}
+
+td.dead {
+   
+}
+
+td.live {
+   
+}
